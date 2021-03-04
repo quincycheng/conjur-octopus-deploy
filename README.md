@@ -3,8 +3,8 @@
 ## Installation
 
 1. Go to `Library` > `Steps Templates` > `Import`
-2. Copy the content from the [cyberark-conjur-retrieve-a-secret.json](https://github.com/quincycheng/conjur-octopus-deploy/blob/main/cyberark-conjur-retrieve-a-secret.json) file in this repo to the text field and click `Import`
-3. Click on `Settings` tab, select `Current Logo` under `Logo` and choose the [cyberark-logo.png](https://github.com/quincycheng/conjur-octopus-deploy/blob/main/cyberark-logo.png) file from this repo 
+2. Copy the content from the [cyberark-conjur-retrieve-a-secret.json](cyberark-conjur-retrieve-a-secret.json) file in this repo to the text field and click `Import`
+3. Click on `Settings` tab, select `Current Logo` under `Logo` and choose the [cyberark-logo.png](cyberark-logo.png) file from this repo 
 
 ## Usage
 
